@@ -1,0 +1,38 @@
+Write a program that asks a user for inputs (max of 10) and then asks the user about which data analysis to execute. This process should loop until the
+user uses the exit action in the ui.
+7 functions to make! 0/7 done.
+
+Display Data (not a function since I couldn't get it to work)    (Precision must be 2 decimal places.)
+1. set up mock values
+2. write the function
+3. test the written code
+
+Mean function
+1. set up mock values
+2. write the mean function
+3. test the mean function with mock values
+
+minimum function
+1. setup mock values 
+2. write the minimum function
+3. test the minimum function with mock values.
+
+maximum function
+1. setup mock values
+2. write the maximum function
+3. test the maximum function with mock values.
+
+standard deviation function
+1. setup mock values
+2. write the standard deviation function (take the square root of(difference between a specific value and the mean, then take the square of this difference, then find the average of all of the values.))
+3. test the standard deviation function
+
+average power function
+1. setup mock values
+2. write the average power function (square each value, then take the average)
+3. test the average power function with mock values
+
+number of zero crossings function       NOTE THE LAST VALUE CANNOT BE ZERO OR ELSE IT COUNTS THAT AS ANOTHER ZERO CROSSING!
+1. setup with mock values
+2. write the zero crossings function (essentially, plot the values, and connect the dots to find out all the zeros)
+3. test the zero crossings function with mock values

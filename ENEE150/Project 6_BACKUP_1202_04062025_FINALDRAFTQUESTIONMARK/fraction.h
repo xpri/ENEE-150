@@ -1,0 +1,19 @@
+typedef struct
+{
+    int numerator;
+    int denominator;
+}   Fraction;
+
+void displayFraction(Fraction);
+/* Function to calculate addition of two fraction numbers */
+Fraction addFraction (Fraction, Fraction);
+/* Function to calculate subtraction of two fraction numbers */
+Fraction subFraction (Fraction, Fraction);
+/* Function to calculate multiplication of two fraction numbers */
+Fraction multiplyFraction (Fraction, Fraction);
+/* Function to calculate division of two fraction numbers */
+Fraction divideFraction (Fraction, Fraction);
+
+void displayMenuAndGetUserInput(char *UserInput, char tokensOfUserInput[][100]);
+
+int isInteger(const char *str);

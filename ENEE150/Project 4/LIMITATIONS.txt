@@ -1,0 +1,1 @@
+Some limitations are that in the cmd> prompt it does not accept a space after the input. The code breaks. And hist also breaks.

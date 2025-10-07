@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+void add(doubel real1, )
+{
+
+}
+
+void subtract()
+{
+
+}
+
+void multiply()
+{
+
+}
+
+void readComplex()
+{
+
+}
+
+void printComplex()
+{
+
+}
+
+void main()
+{
+
+}
