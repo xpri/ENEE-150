@@ -1,0 +1,1 @@
+Max allowed integer for a numerator or denominator is 2,147,483,647.

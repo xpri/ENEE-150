@@ -1,0 +1,4 @@
+The new vector will still execute even if there are more inputs than needed.
+For example if calc> A 2 1 1 1 were to be exectued than nothing would be wrong.
+Only the first two values are read. If it was to be calc> A 2 1 then an error of
+"Error. Invalid vector input!" Would be displayed.

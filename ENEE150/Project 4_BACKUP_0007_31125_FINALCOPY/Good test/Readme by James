@@ -1,0 +1,6 @@
+PS C:\Users\tempja\OneDrive\Documents\VS CODE\ENEE150\Project 4> cd '.\Good test\'
+PS C:\Users\tempja\OneDrive\Documents\VS CODE\ENEE150\Project 4\Good test> gcc main.c myheader.c -o main
+PS C:\Users\tempja\OneDrive\Documents\VS CODE\ENEE150\Project 4\Good test> ./main.exe       
+Hello World
+sum of 10 and 20 is 30
+Radius: 5.250000 Area: 86.601375

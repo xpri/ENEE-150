@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+rv = scanf("%d", &UserInput);
+while (rv != 1)
+{
+    printf("Invalid input. Please enter which seat assignment you desire: ");
+    gets(trash); //clears input buffer.
+    rv = scanf("%d", &UserInput);
+}

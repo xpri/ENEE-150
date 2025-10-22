@@ -1,0 +1,16 @@
+Option Input Expected Result PASS/FAIL
+1 
+(2, 2) Pass (2.828, 45.000)
+(0, 2.5) Pass (2.500, 90.000)
+(0, -3.2) Pass (3.200, -90.000)
+(0, 0) Pass (0.000, 0.000)
+(-2.5, 3.1) Pass (3.982, 128.884)
+(2.5, -3.1) Pass (3.982, -51.116)
+(a, 2) Pass Invalid Data!
+(4, a) Pass Invalid Data!
+2 
+(2.5, 30) Pass (2.165, 1.250)
+(4, 90) Pass (0.000, 4.000)
+(2.7, 125) Pass (-1.549, 2.212)
+(a, 2) Pass Invalid Data!
+(4, a) Pass Invalid Data!
