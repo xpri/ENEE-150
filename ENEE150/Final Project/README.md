@@ -1,0 +1,1 @@
+.RaspberryPiConfig is a virtual enviornment for the raspberry pi microcontroller.
